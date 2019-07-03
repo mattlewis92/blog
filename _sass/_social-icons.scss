@@ -24,3 +24,8 @@
   position: relative;
   top: 0.1em;
 }
+
+.social-link:hover,
+.social-link:focus {
+  border-bottom: 0 !important;
+}
