@@ -1,0 +1,6 @@
+{
+  "scripts": {
+    "start": "bundle exec jekyll serve blog",
+    "build": "bundle exec jekyll build --destination ../docs/blog"
+  }
+}
